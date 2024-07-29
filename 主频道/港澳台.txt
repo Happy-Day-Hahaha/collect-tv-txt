@@ -92,3 +92,5 @@ RTHK34
 RTHK35
 RTHK36
 Taiwan Plus
+Taiwan_Plus
+Taiwan-Plus
